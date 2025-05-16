@@ -1,8 +1,7 @@
 # Replace the "ANSWER HERE" with your answer
 
 def remove_elements(list_to_remove_elements):
-    nueva_lista = list_to_remove_elements
-    nueva_lista = [5, 4, 0]
+    nueva_lista = list_to_remove_elements[5, 4, 0]
     return nueva_lista
 
 
